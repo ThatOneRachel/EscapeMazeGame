@@ -1,0 +1,225 @@
+# depslib dependency file v1.0
+1662324120 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo\main.c
+	<stdio.h>
+	<string.h>
+	"raylib.h"
+	"map.h"
+	"movimentojog.h"
+	"Localizajogador.h"
+
+1661968994 c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo\map.h
+
+1661795382 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo\movimentojog.c
+	"map.h"
+
+1662325206 c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo\movimentojog.h
+	"pontuacao.h"
+
+1661966943 c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo\localizajogador.h
+
+1662326858 c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo\pontuacao.h
+
+1664478315 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo - copia\main.c
+	<stdio.h>
+	<string.h>
+	"raylib.h"
+	"mapa.h"
+	"movimentos.h"
+	"jogador.h"
+
+1661968994 c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo - copia\map.h
+
+1662325206 c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo - copia\movimentojog.h
+	"pontuacao.h"
+
+1664555869 c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo - copia\pontuacao.h
+	"mapa.h"
+
+1661966943 c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo - copia\localizajogador.h
+
+1664211887 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo - copia\coordena.c
+	"coordenadas.h"
+
+1664212057 c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo - copia\coordenadas.h
+
+1664218662 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo - copia\jogador.c
+	"jogador.h"
+	"coordenadas.h"
+	<string.h>
+	<stdio.h>
+
+1664212373 c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo - copia\jogador.h
+	"coordenadas.h"
+
+1664386259 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo - copia\mapa.c
+	"coordenadas.h"
+	"jogador.h"
+	"mapa.h"
+	<string.h>
+
+1664556117 c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo - copia\mapa.h
+	"coordenadas.h"
+	"jogador.h"
+
+1664220915 c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo - copia\movimentos.h
+	"mapa.h"
+
+1664300625 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo - copia\movimentos.c
+	"pontuacao.h"
+	"movimentos.h"
+
+1664547340 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo - copia\pontuacao.c
+	<time.h>
+	"mapa.h"
+
+1664477057 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\tentativafinaljogo - copia\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"raylib.h"
+
+1664211887 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\jogo_trabalho_final\coordena.c
+	"coordenadas.h"
+
+1665102591 c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\jogo_trabalho_final\coordenadas.h
+
+1665102391 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\jogo_trabalho_final\jogador.c
+	"jogador.h"
+	"coordenadas.h"
+	"mapa.h"
+	<string.h>
+	<stdio.h>
+
+1665090485 c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\jogo_trabalho_final\jogador.h
+	"coordenadas.h"
+
+1665873259 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\jogo_trabalho_final\main.c
+	<stdio.h>
+	<string.h>
+	"raylib.h"
+	"mapa.h"
+	"movimentos.h"
+	"jogador.h"
+
+1665168902 c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\jogo_trabalho_final\mapa.h
+	"coordenadas.h"
+	"raylib.h"
+	"jogador.h"
+
+1665873234 c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\jogo_trabalho_final\movimentos.h
+	"mapa.h"
+
+1665168494 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\jogo_trabalho_final\mapa.c
+	"coordenadas.h"
+	"jogador.h"
+	"mapa.h"
+	<string.h>
+
+1665102528 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\jogo_trabalho_final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"raylib.h"
+
+1665873284 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\jogo_trabalho_final\movimentos.c
+	"movimentos.h"
+	"raylib.h"
+
+1665166370 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\jogo_trabalho_final\pontuacao.c
+	<time.h>
+	"mapa.h"
+	"movimentos.h"
+	"raylib.h"
+
+1664912606 c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\jogo_trabalho_final\proximafase.c
+	"movimentos.h"
+	"mapa.h"
+
+1665090895 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\jogo_trabalho_final\salvarjogo.c
+	"coordenadas.h"
+	"jogador.h"
+	"mapa.h"
+	<stdlib.h>
+	<stdio.h>
+	"raylib.h"
+
+1665158136 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\jogo_trabalho_final\ranking.c
+	<string.h>
+	<stdio.h>
+	"jogador.h"
+	"ranking.h"
+	"mapa.h"
+
+1665085471 c:\users\raquel ramos\onedrive\documentos\ufrgs\algoritmos e programação - cic\projeto\jogo_trabalho_final\ranking.h
+	"jogador.h"
+	"mapa.h"
+
+1664211887 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\ciencia da computação\algoritmos e programação - cic\projeto\jogo_trabalho_final\coordena.c
+	"coordenadas.h"
+
+1665102591 c:\users\raquel ramos\onedrive\documentos\ufrgs\ciencia da computação\algoritmos e programação - cic\projeto\jogo_trabalho_final\coordenadas.h
+
+1665102391 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\ciencia da computação\algoritmos e programação - cic\projeto\jogo_trabalho_final\jogador.c
+	"jogador.h"
+	"coordenadas.h"
+	"mapa.h"
+	<string.h>
+	<stdio.h>
+
+1665090485 c:\users\raquel ramos\onedrive\documentos\ufrgs\ciencia da computação\algoritmos e programação - cic\projeto\jogo_trabalho_final\jogador.h
+	"coordenadas.h"
+
+1665168902 c:\users\raquel ramos\onedrive\documentos\ufrgs\ciencia da computação\algoritmos e programação - cic\projeto\jogo_trabalho_final\mapa.h
+	"coordenadas.h"
+	"raylib.h"
+	"jogador.h"
+
+1665873259 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\ciencia da computação\algoritmos e programação - cic\projeto\jogo_trabalho_final\main.c
+	<stdio.h>
+	<string.h>
+	"raylib.h"
+	"mapa.h"
+	"movimentos.h"
+	"jogador.h"
+
+1665873234 c:\users\raquel ramos\onedrive\documentos\ufrgs\ciencia da computação\algoritmos e programação - cic\projeto\jogo_trabalho_final\movimentos.h
+	"mapa.h"
+
+1665168494 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\ciencia da computação\algoritmos e programação - cic\projeto\jogo_trabalho_final\mapa.c
+	"coordenadas.h"
+	"jogador.h"
+	"mapa.h"
+	<string.h>
+
+1665102528 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\ciencia da computação\algoritmos e programação - cic\projeto\jogo_trabalho_final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"raylib.h"
+
+1665873284 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\ciencia da computação\algoritmos e programação - cic\projeto\jogo_trabalho_final\movimentos.c
+	"movimentos.h"
+	"raylib.h"
+
+1665166370 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\ciencia da computação\algoritmos e programação - cic\projeto\jogo_trabalho_final\pontuacao.c
+	<time.h>
+	"mapa.h"
+	"movimentos.h"
+	"raylib.h"
+
+1665158136 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\ciencia da computação\algoritmos e programação - cic\projeto\jogo_trabalho_final\ranking.c
+	<string.h>
+	<stdio.h>
+	"jogador.h"
+	"ranking.h"
+	"mapa.h"
+
+1665085471 c:\users\raquel ramos\onedrive\documentos\ufrgs\ciencia da computação\algoritmos e programação - cic\projeto\jogo_trabalho_final\ranking.h
+	"jogador.h"
+	"mapa.h"
+
+1665090895 source:c:\users\raquel ramos\onedrive\documentos\ufrgs\ciencia da computação\algoritmos e programação - cic\projeto\jogo_trabalho_final\salvarjogo.c
+	"coordenadas.h"
+	"jogador.h"
+	"mapa.h"
+	<stdlib.h>
+	<stdio.h>
+	"raylib.h"
+

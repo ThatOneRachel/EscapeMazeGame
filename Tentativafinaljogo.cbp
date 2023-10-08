@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Tentativafinaljogo" />
+		<Option pch_mode="2" />
+		<Option compiler="copy_of_gnu_gcc_compiler_c_raylib" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Tentativafinaljogo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="copy_of_gnu_gcc_compiler_c_raylib" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Tentativafinaljogo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="copy_of_gnu_gcc_compiler_c_raylib" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Jogador.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="coordena.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="coordenadas.h" />
+		<Unit filename="jogador.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mapa.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mapa.h" />
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h" />
+		<Unit filename="movimentos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="movimentos.h" />
+		<Unit filename="pontuacao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ranking.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ranking.h" />
+		<Unit filename="salvarjogo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="salvarjogo.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
